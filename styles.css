@@ -2,7 +2,10 @@ body{
 font-family: Arial;
 margin:0;
 }
-
+video {
+  display: block;
+  margin: 0 auto;
+}
 /* header */
 
 header{
@@ -160,4 +163,5 @@ color:white;
 text-align:center;
 padding:20px;
 margin-top:40px;
+
 }
