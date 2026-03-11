@@ -5,19 +5,19 @@ phones: [
 name: "iPhone 13",
 price: "$800",
 spec: "128GB, 5G",
-image: "images/iphone13.jpg"
+image: "iphone.jpg"
 },
 {
 name: "Samsung Galaxy S22",
 price: "$750",
 spec: "128GB, Android",
-image: "images/samsungS22.jpg"
+image: "samsungs22ultra.jpg"
 },
 {
 name: "Samsung Galaxy A17",
 price: "250,000NGN",
 spec: "128GB, Android",
-image: "images/samsungA17.jpg"
+image: "samsungA17.webp"
 }
 ],
 
@@ -73,5 +73,6 @@ container.innerHTML += `
 `;
 
 });
+
 
 }
