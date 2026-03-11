@@ -1,0 +1,163 @@
+body{
+font-family: Arial;
+margin:0;
+}
+
+/* header */
+
+header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:#0a2540;
+color:white;
+padding:10px 20px;
+}
+
+/* logo */
+
+.logo{
+display:flex;
+align-items:center;
+}
+
+.logo img{
+width:90px;
+margin-right:15px;
+}
+
+/* menu */
+
+nav a{
+color:white;
+text-decoration:none;
+margin:0 15px;
+}
+
+/* hamburger button */
+
+.menu-btn{
+display:none;
+font-size:25px;
+cursor:pointer;
+}
+
+/* hero section */
+
+.hero{
+text-align:center;
+padding-top:100px;
+padding-bottom:400px;
+background:#faf0f9;
+}
+
+/* mobile */
+
+@media(max-width:768px){
+
+body{
+font-size:18px;
+}
+
+nav{
+display:none;
+flex-direction:column;
+background:#0a2540;
+position:absolute;
+top:60px;
+right:0;
+width:200px;
+flex-direction:column;
+}
+
+nav a{
+padding:10px;
+}
+
+.menu-btn{
+display:block;
+}
+
+}
+
+
+
+
+
+body{
+font-family: Arial;
+margin:0;
+}
+
+/* header */
+
+header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:#0a2540;
+color:white;
+padding:15px 30px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:0 15px;
+}
+
+/* hero */
+
+.hero{
+text-align:center;
+padding:80px;
+padding:40px 20px;
+background:#f4f4f4;
+}
+
+/* contact layout */
+
+.contact-container{
+display:flex;
+justify-content:space-around;
+padding:40px;
+gap:40px;
+}
+
+/* contact info */
+
+.contact-info{
+width:40%;
+}
+
+/* form */
+
+.contact-form{
+width:40%;
+}
+
+.contact-form input,
+.contact-form textarea{
+width:100%;
+padding:10px;
+margin:10px 0;
+border:1px solid #ccc;
+}
+
+button{
+background:#0a2540;
+color:white;
+padding:10px;
+border:none;
+cursor:pointer;
+}
+
+/* footer */
+
+footer{
+background:#0a2540;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>G-Tek Software Services</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+<img src="logo.png" alt="logo">
+<h2><span style="color:blue">G</span><span style="color:yellow">-</span><span style="color:red">T</span><span style="color:silver">e</span><span  style="color:lime">K</span> Software Services</h2>
+</div>
+
+<nav id="menu">
+
+<a href="Index.html">Home</a>
+<a href="purchace.html">Purchace</a>
+<a href="Aboutpage.html">About</a>
+<a href="services.html">Services</a>
+<a href="contact.html">Contact</a>
+<a href="login.html">Login</a>
+
+</nav>
+
+<div class="menu-btn" onclick="toggleMenu()">
+☰
+</div>
+
+</header>
+
+
+<div class="container">
+
+<!-- SIDE MENU -->
+<div class="sidebar">
+
+<h3>Categories</h3>
+
+<ul>
+<li onclick="showCategory('phones')">Phones</li>
+<li onclick="showCategory('computers')">Computers</li>
+<li onclick="showCategory('electronics')">Electronics</li>
+<li onclick="showCategory('accessories')">Accessories</li>
+<li onclick="showCategory('clothes')">Clothes</li>
+<li onclick="showCategory('shoes')">Shoes</li>
+<li onclick="showCategory('jewelry')">Jewelry</li>
+</ul>
+
+</div>
+
+<!-- PRODUCT AREA -->
+<div class="products" id="products">
+
+<h3>Select a category to view products</h3>
+
+</div>
+
+</div>
+
+<script src="store.js"></script>
+
+</body>
+</html>

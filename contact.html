@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact - G-Tek Software Services</title>
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+}
+
+@media (max-width:768px){
+
+body{
+font-size:18px;
+}
+
+nav{
+flex-direction:column;
+}
+
+.hero{
+padding:40px 20px;
+}
+
+}
+
+/* header */
+
+header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+background:#0a2540;
+color:white;
+padding:15px 30px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:0 15px;
+}
+
+/* hero */
+
+.hero{
+text-align:center;
+padding:80px;
+background:#f4f4f4;
+}
+
+/* contact layout */
+
+.contact-container{
+display:flex;
+justify-content:space-around;
+padding:40px;
+gap:40px;
+}
+
+/* contact info */
+
+.contact-info{
+width:40%;
+}
+
+/* form */
+
+.contact-form{
+width:40%;
+}
+
+.contact-form input,
+.contact-form textarea{
+width:100%;
+padding:10px;
+margin:10px 0;
+border:1px solid #ccc;
+}
+
+button{
+background:#0a2540;
+color:white;
+padding:10px;
+border:none;
+cursor:pointer;
+}
+
+/* footer */
+
+footer{
+background:#0a2540;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h2>G-Tek Software Services</h2>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="store.html">Store</a>
+
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h1>Contact Us</h1>
+<p>We would love to hear from you. Get in touch with us.</p>
+
+</section>
+
+
+<section class="contact-container">
+
+<div class="contact-info">
+
+<h3>Our Contact Information</h3>
+
+<p><strong>Email:</strong> Gtecksoftware@gmail.com</p>
+
+<p><strong>Phone:</strong> +234 902 086 2121</p>
+
+<p><strong>Address:</strong> Katsina, Katsina State, Nigeria</p>
+
+<p>
+We are always ready to assist our clients with inquiries,
+technical support, and business collaboration opportunities.
+</p>
+
+</div>
+
+
+<div class="contact-form">
+
+<h3>Send Us a Message</h3>
+
+<form method="post" action="contact.php">
+
+<input type="text" placeholder="Your Name" name="yourname" required>
+
+<input type="email" placeholder="Your Email" name="email" required>
+
+<textarea placeholder="Your Message" rows="5" name="message"></textarea>
+
+<button type="submit">Send Message</button>
+
+</form>
+
+</div>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 G-Tek Software Services. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+</html>
