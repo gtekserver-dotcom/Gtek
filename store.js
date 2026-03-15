@@ -27,52 +27,51 @@ name: "designer",
 price: "52,000 NGN",
 spec: "leather",
 image: "bag0001.jpg"
-}
+},
 {
 name: "designer",
 price: "38,000 NGN",
 spec: "leather",
 image: "bag0002.jpg"
-}
+},
 {
 name: "designer",
 price: "60,000 NGN",
 spec: "leather",
 image: "bag0003.jpg"
-}
+},
 {
 name: "designer",
 price: "80,000 NGN",
 spec: "leather",
 image: "bag0004.jpg"
-}
+},
 {
 name: "designer",
 price: "80,000 NGN",
 spec: "leather",
 image: "bag0005.jpg"
-}
+},
 {
 name: "designer",
 price: "75,000 NGN",
 spec: "leather",
 image: "bag0006.jpg"
-}
+},
 {
 name: "designer",
 price: "87,000 NGN",
 spec: "leather",
 image: "bag0007.jpg"
-}
+},
 {
 name: "designer",
 price: "87,000 NGN",
 spec: "leather",
 image: "bag0008.jpg"
 }
-]
+],
 
-  
 computers: [
 {
 name: "HP EliteBook",
