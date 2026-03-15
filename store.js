@@ -26,49 +26,49 @@ Handbags: [
 name: "designer",
 price: "52,000 NGN",
 spec: "leather",
-image: "bag0001.jpg"
+image: "bag0001.jpeg"
 },
 {
 name: "designer",
 price: "38,000 NGN",
 spec: "leather",
-image: "bag0002.jpg"
+image: "bag0002.jpeg"
 },
 {
 name: "designer",
 price: "60,000 NGN",
 spec: "leather",
-image: "bag0003.jpg"
+image: "bag0003.jpeg"
 },
 {
 name: "designer",
 price: "80,000 NGN",
 spec: "leather",
-image: "bag0004.jpg"
+image: "bag0004.jpeg"
 },
 {
 name: "designer",
 price: "80,000 NGN",
 spec: "leather",
-image: "bag0005.jpg"
+image: "bag0005.jpeg"
 },
 {
 name: "designer",
 price: "75,000 NGN",
 spec: "leather",
-image: "bag0006.jpg"
+image: "bag0006.jpeg"
 },
 {
 name: "designer",
 price: "87,000 NGN",
 spec: "leather",
-image: "bag0007.jpg"
+image: "bag0007.jpeg"
 },
 {
 name: "designer",
 price: "87,000 NGN",
 spec: "leather",
-image: "bag0008.jpg"
+image: "bag0008.jpeg"
 }
 ],
 
