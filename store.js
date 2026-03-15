@@ -32,43 +32,43 @@ image: "Bag0001.jpeg"
 name: "designer",
 price: "38,000 NGN",
 spec: "leather",
-image: "bag0002.jpeg"
+image: "Bag0002.jpeg"
 },
 {
 name: "designer",
 price: "60,000 NGN",
 spec: "leather",
-image: "bag0003.jpeg"
+image: "Bag0003.jpeg"
 },
 {
 name: "designer",
 price: "80,000 NGN",
 spec: "leather",
-image: "bag0004.jpeg"
+image: "Bag0004.jpeg"
 },
 {
 name: "designer",
 price: "80,000 NGN",
 spec: "leather",
-image: "bag0005.jpeg"
+image: "Bag0005.jpeg"
 },
 {
 name: "designer",
 price: "75,000 NGN",
 spec: "leather",
-image: "bag0006.jpeg"
+image: "Bag0006.jpeg"
 },
 {
 name: "designer",
 price: "87,000 NGN",
 spec: "leather",
-image: "bag0007.jpeg"
+image: "Bag0007.jpeg"
 },
 {
 name: "designer",
 price: "87,000 NGN",
 spec: "leather",
-image: "bag0008.jpeg"
+image: "Bag0008.jpeg"
 }
 ],
 
