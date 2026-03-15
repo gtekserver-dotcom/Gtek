@@ -26,7 +26,7 @@ Handbags: [
 name: "designer",
 price: "52,000 NGN",
 spec: "leather",
-image: "bag0001.jpeg"
+image: "Bag0001.jpeg"
 },
 {
 name: "designer",
